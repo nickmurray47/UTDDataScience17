@@ -13,6 +13,7 @@
 1. https://www.ml.cmu.edu/research/data-analysis-projects.html
   a. https://www.ml.cmu.edu/research/dap-papers/DAP-He_Yilin.pdf
 2. https://www-cs.stanford.edu/people/jure/pubs/connie-nips10.pdf
+3. https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 # Possible Questions:
 
